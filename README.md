@@ -26,14 +26,6 @@ ESOGÜ'de Bilgisayar Programcılığı öğrencisiyim. Yazılım dünyasında ke
 - 📚 **Kütüphane/Personel Kayıt Otomasyonu:** C# ve SQL Server kullanarak geliştirdiğim masaüstü uygulaması.
 - 🎓 **Akademik Takip Sistemi (ATS):** PHP ve OOP mimarisi ile kurguladığım web tabanlı yönetim sistemi.
 - 📱 **Android Uygulamaları:** Java kullanarak geliştirdiğim mobil projeler.
-
----
-
-### 🎮 İlgi Alanlarım
-- ⌨️ Rekabetçi oyunlar (Valorant, LoL, CS) oynamayı seviyorum.
-- ⚽ Sadık bir **Fenerbahçe** taraftarıyım.
-- 🎬 Star Wars ve Game of Thrones evrenlerinin sıkı bir takipçisiyim.
-
 ---
 
 ### 📫 Benimle İletişime Geç
@@ -43,4 +35,4 @@ ESOGÜ'de Bilgisayar Programcılığı öğrencisiyim. Yazılım dünyasında ke
 ---
 
 ### 📊 GitHub İstatistiklerim
-![Talha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GERCEK_GITHUB_KULLANICI_ADIN&show_icons=true&theme=radical)
+![Talha1965's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GERCEK_GITHUB_KULLANICI_ADIN&show_icons=true&theme=radical)
